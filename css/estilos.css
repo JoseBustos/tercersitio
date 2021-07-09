@@ -93,6 +93,13 @@ p {
     margin: -20px;
 }
 
+
+/*
 .tagline {
     display: inline;
+}
+*/
+
+.footer {
+    text-align: center;
 }
